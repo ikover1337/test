@@ -5,6 +5,7 @@ body{
     
 }
 
-body img{
-    border: 100px;
+h1{
+    font-style:unset;
+    color: cornflowerblue;
 }
