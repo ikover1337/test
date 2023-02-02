@@ -4,3 +4,7 @@ body{
     margin: 300px;
     
 }
+
+body img{
+    border: 100px;
+}
